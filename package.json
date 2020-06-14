@@ -1,0 +1,9 @@
+{
+    "name": "tool-mspdebug",
+    "description": "MSPDebug",
+    "system": [
+        "darwin_x86_64"
+    ],
+    "url": "https://github.com/glingy/tool-mspdebug.git",
+    "version": "1.2400.190926"
+}
